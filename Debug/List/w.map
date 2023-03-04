@@ -1,12 +1,12 @@
 ###############################################################################
 #
-# IAR ELF Linker V3.11.1.207 for STM8                     04/Mar/2023  19:47:47
+# IAR ELF Linker V3.11.1.207 for STM8                     04/Mar/2023  21:08:51
 # Copyright 2010-2019 IAR Systems AB.
 #
 #    Output file  =  D:\pr\wtf\Debug\Exe\w.out
 #    Map file     =  D:\pr\wtf\Debug\List\w.map
 #    Command line =  
-#        -f C:\Users\Stas\AppData\Local\Temp\EW5613.tmp
+#        -f C:\Users\Stas\AppData\Local\Temp\EW901B.tmp
 #        (D:\pr\wtf\Debug\Obj\main.o D:\pr\wtf\Debug\Obj\stm8s_adc1.o
 #        D:\pr\wtf\Debug\Obj\stm8s_awu.o D:\pr\wtf\Debug\Obj\stm8s_beep.o
 #        D:\pr\wtf\Debug\Obj\stm8s_clk.o D:\pr\wtf\Debug\Obj\stm8s_exti.o

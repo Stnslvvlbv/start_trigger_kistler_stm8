@@ -47526,7 +47526,7 @@
     "display": "ReceivedData",
     "location": {
       "column": "9",
-      "line": "14",
+      "line": "4",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "ReceivedData",
@@ -47540,7 +47540,7 @@
     "display": "void GPIO_Config(void)",
     "location": {
       "column": "13",
-      "line": "15",
+      "line": "5",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "GPIO_Config",
@@ -47554,7 +47554,7 @@
     "display": "void CLK_Config(void)",
     "location": {
       "column": "13",
-      "line": "16",
+      "line": "6",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "CLK_Config",
@@ -47568,7 +47568,7 @@
     "display": "void UART1_Config(void)",
     "location": {
       "column": "13",
-      "line": "17",
+      "line": "7",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "UART1_Config",
@@ -47582,7 +47582,7 @@
     "display": "void Delay(uint32_t)",
     "location": {
       "column": "6",
-      "line": "18",
+      "line": "8",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "Delay",
@@ -47590,13 +47590,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@874@macro@LED_GPIO_PORT",
+    "ID": "c:main.c@350@macro@LED_GPIO_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "LED_GPIO_PORT",
     "location": {
       "column": "9",
-      "line": "21",
+      "line": "11",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "LED_GPIO_PORT",
@@ -47604,13 +47604,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@906@macro@LED_GPIO_PINS",
+    "ID": "c:main.c@382@macro@LED_GPIO_PINS",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "LED_GPIO_PINS",
     "location": {
       "column": "9",
-      "line": "22",
+      "line": "12",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "LED_GPIO_PINS",
@@ -47624,7 +47624,7 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "30",
+      "line": "14",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "main",
@@ -47638,7 +47638,7 @@
     "display": "void CLK_Config(void)",
     "location": {
       "column": "13",
-      "line": "79",
+      "line": "55",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "CLK_Config",
@@ -47652,7 +47652,7 @@
     "display": "void GPIO_Config(void)",
     "location": {
       "column": "13",
-      "line": "89",
+      "line": "60",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "GPIO_Config",
@@ -47666,7 +47666,7 @@
     "display": "void UART1_Config(void)",
     "location": {
       "column": "13",
-      "line": "100",
+      "line": "66",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "UART1_Config",
@@ -47680,7 +47680,7 @@
     "display": "void Delay(uint32_t)",
     "location": {
       "column": "6",
-      "line": "134",
+      "line": "87",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "Delay",
@@ -47694,7 +47694,7 @@
     "display": "void assert_failed(uint8_t *, uint32_t)",
     "location": {
       "column": "6",
-      "line": "152",
+      "line": "98",
       "path": "D:\\pr\\wtf\\main.c"
     },
     "name": "assert_failed",
